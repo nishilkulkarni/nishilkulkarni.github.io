@@ -5,10 +5,10 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-name: Ishita Mediratta
-url: https://ishita.io
-enforce_ssl: https://ishita.io
-description: Ishita
+name: Nishil Kulkarni
+url: https://nishilkulkarni.github.io
+enforce_ssl: https://nishilkulkarni.github.io
+description: Nishil
 
 collections:
   ml:
